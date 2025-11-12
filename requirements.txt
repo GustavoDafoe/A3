@@ -1,4 +1,8 @@
+streamlit
 pandas
 plotly
-streamlit
 scikit-learn
+playwright>=1.53.0
+
+pip install playwright pytest pytest-playwright
+playwright install
